@@ -1,0 +1,54 @@
+body{
+  background-color: #A0CFD3;
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+h1{
+  /*The title*/
+  color: #8D89A6;
+  font-size: 90px;
+}
+
+.table{
+  font-size: 30px;
+  text-decoration: underline;
+  align: center;
+}
+
+.btn-twitter {
+  background: #00acee;
+  border-color: #009ad5;
+}
+.btn-facebook{
+  background: #4868ac;
+  border-color: #314776;
+}
+.btn-pinterest{
+  background: #b62f26;
+  border-color: #b62f26;
+}
+.btn-snapchat{
+  background: #D8CC34;
+  border-color: black;
+}
+.btn-instagram{
+  background: orange;
+  border-color: purple;
+}
+#social-buttons{
+  color:white;
+}
+
+h2{
+  font-size: 40px
+}
+
+#destination {
+  background: #96BDC6;
+  color: black;
+}
+
+h3{
+  font-size: 30px;
+}
