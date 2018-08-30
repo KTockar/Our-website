@@ -14,6 +14,7 @@ h1{
   font-size: 30px;
   text-decoration: underline;
   align: center;
+
 }
 
 .btn-twitter {
@@ -55,5 +56,5 @@ h3{
 
 #travel-section{
   background-image: url('../Images/Travel Page Photo.jpg');
-  
+
 }
